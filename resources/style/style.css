@@ -63,8 +63,8 @@ h3 a:hover {
 
 #bio {
 	padding-top: 20px;
+	padding-bottom: 20px;
 	border-bottom: 1px solid #D6D6D6;
-	height: 260px;
 }
 
 #bio img {
